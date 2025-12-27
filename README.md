@@ -36,7 +36,7 @@ Navigation is handled with simple HTML `<a>` links.
 No JavaScript, no frameworks, no backend.
 
 ## File Structure
-text```
+```
 california/
 ├── README.md
 ├── index.html
