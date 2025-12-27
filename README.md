@@ -1,6 +1,6 @@
-===============================
+========================================
  CALIFORNIA – CRICKET BAT WEBSITE
-===============================
+========================================
 
 OVERVIEW
 --------
@@ -8,16 +8,14 @@ This repository contains a simple static website built using HTML and images.
 It showcases cricket bats through a clean landing page and a secondary
 information page.
 
---------------------------------
 
 WEBSITE PAGES
 -------------
-- index.html   → Landing page
-- it3.html     → About / Read More page
+• index.html  → Landing page
+• it3.html    → About / Read More page
 
 Navigation between pages is handled using standard HTML links.
 
---------------------------------
 
 LANDING PAGE (index.html)
 -------------------------
@@ -31,7 +29,6 @@ Includes:
 
 All styling is done using inline CSS.
 
---------------------------------
 
 ABOUT PAGE (it3.html)
 ---------------------
@@ -42,33 +39,32 @@ Includes:
 
 This page focuses on text content with inline CSS styling.
 
---------------------------------
 
 TECHNOLOGIES USED
 -----------------
-HTML
-Inline CSS
-Images (JPG / AVIF)
+• HTML
+• Inline CSS
+• Images (JPG / AVIF)
 
 No JavaScript or backend is used.
 
---------------------------------
 
 PROJECT FILE STRUCTURE
-----------------------
+---------------------
 california/
 │
-├── README.md          → Project documentation
-├── index.html         → Main landing page
-├── it3.html           → About / description page
+├── README.md
 │
-├── image01.avif       → Product image
-├── image02.jpg        → Product image
-├── image03.jpg        → Product image
+├── index.html
 │
-└── CNAME              → GitHub Pages configuration
+├── it3.html
+│
+├── image01.avif
+├── image02.jpg
+├── image03.jpg
+│
+└── CNAME
 
---------------------------------
 
 HOW TO VIEW
 -----------
@@ -76,7 +72,6 @@ HOW TO VIEW
 OR
 • View the website using GitHub Pages (if enabled)
 
---------------------------------
 
 PURPOSE
 -------
@@ -86,7 +81,6 @@ This project is created to practice:
 • Page navigation using links
 • Static website hosting
 
---------------------------------
 
 LIMITATIONS
 -----------
@@ -94,7 +88,6 @@ LIMITATIONS
 • No JavaScript functionality
 • No backend or database integration
 
---------------------------------
 
 STATUS
 ------
