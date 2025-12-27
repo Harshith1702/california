@@ -1,6 +1,6 @@
 # CALIFORNIA – CRICKET BAT WEBSITE 🏏
 
-![Website Preview](image01.avif)
+![Website Preview](Image01.avif)
 
 A clean, simple static website showcasing premium cricket bats – built with pure HTML and inline CSS.
 
