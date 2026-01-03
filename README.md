@@ -35,7 +35,7 @@ No JavaScript, no frameworks, no backend.
 
 ## File Structure
 ```
-california-cricket-website/
+california-cricket-bats/
 ├── README.md
 ├── index.html
 ├── it3.html
@@ -62,7 +62,7 @@ Host it on **GitHub Pages**:
 1. Go to repo → Settings → Pages  
 2. Select branch (usually `main` or `master`)  
 3. Save  
-Live URL: https://**your-username**.github.io/california-cricket-website/  
+Live URL: https://**your-username**.github.io/california-cricket-bats/  
 (or your custom domain if you added a `CNAME` file)
 
 ## Purpose of this Project
